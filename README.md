@@ -8,29 +8,29 @@
 ## API route access cache
 
 ```
-- /api/cache
+ /api/cache
 ```
 
 ### Start the server
 ```
- - npm i
- - npm start
+  npm i
+  npm start
 ```
 ### Testing using Jasmine
 
 ```
- - npm run test
+  npm run test
 ```
 
 ### to run Linting
 
 ```
- - npm run lint
+  npm run lint
 ```
 
 ### to run Prettier
 
 ```
- - npm run prettier
+ npm run prettier
 
 ```
