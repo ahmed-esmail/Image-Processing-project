@@ -12,10 +12,10 @@
 ```
 
 ### Start the server
-
+```
  - npm i
  - npm start
-
+```
 ### Testing using Jasmine
 
 ```
